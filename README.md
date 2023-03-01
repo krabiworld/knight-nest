@@ -1,8 +1,6 @@
-<p align="center">
-  <a href="https://nestjs.com/" target="blank"><img src=".github/images/nest-ukraine.png" width="140" alt="Nest Logo" /></a>
-</p>
+# Knight Nest
 
-<p align="center">A progressive <a href="https://nodejs.org" target="_blank">Node.js</a> framework for building efficient and scalable server-side applications.</p>
+**The project is dead and no longer working! Don't try to revive it or worse, use it as it is, it has too many vulnerabilities.** (I'm too lazy to fix it)
 
 ## Description
 
