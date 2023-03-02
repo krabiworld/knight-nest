@@ -1,0 +1,6 @@
+{
+  "projectId": "id",
+  "clientEmail": "email",
+  "privateKey": "key",
+  "storage": "storage.appspot.com"
+}

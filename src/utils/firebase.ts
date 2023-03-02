@@ -16,7 +16,7 @@ initializeApp({
     clientEmail: config.clientEmail,
     privateKey: config.privateKey,
   }),
-  storageBucket: 'igneous-study-341611.appspot.com',
+  storageBucket: config.storage,
 });
 
 const converter = <T>(): FirestoreDataConverter<T> => ({
